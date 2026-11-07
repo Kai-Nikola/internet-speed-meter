@@ -1,0 +1,7 @@
+{
+  "name": "Speed Meter",
+  "description": "Lightweight status bar internet speed meter with real-time download and upload rate monitoring, custom colors, power-saving settings, and daily network usage history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

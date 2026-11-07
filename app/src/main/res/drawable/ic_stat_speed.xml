@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Clean, lightweight status bar speed meter glyph -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,4C7.58,4 4,7.58 4,12C4,14.05 4.77,15.92 6.04,17.34L7.46,15.92C6.56,14.81 6,13.47 6,12C6,8.69 8.69,6 12,6C15.31,6 18,8.69 18,12C18,13.47 17.44,14.81 16.54,15.92L17.96,17.34C19.23,15.92 20,14.05 20,12C20,7.58 16.42,4 12,4M12,8C9.79,8 8,9.79 8,12C8,12.75 8.21,13.46 8.58,14.07L13.5,9.15C13.06,8.44 12.56,8 12,8M12,14A2,2 0 0,1 10,12C10,11.44 10.44,11 11,11A2,2 0 0,1 13,13C13,13.56 12.56,14 12,14Z"/>
+</vector>
